@@ -16,3 +16,38 @@ ranging from several years. Based on the Information the ultimate goal would be 
 predict crop production and find important insights highlighting key indicators and
 metrics that influence crop production.
 Make views and dashboards first and also make a story out of it.
+
+# Tools Used:-
+- Microsoft Excel
+
+- Tableau
+
+- EDA With Python
+
+# Data Cleaning :-
+Data cleaning in Excel involves several tasks aimed at improving the quality and consistency of the data.  
+
+**1.Removing Duplicate Entries:**   
+- Use the "Remove Duplicates" feature to eliminate rows with identical data.   
+- Keywords: "Remove Duplicates," "Duplicate Entries"
+
+**2.Spell Check and Correction:**    
+- Utilize Excel's built-in spell check feature to identify and correct spelling errors.
+  
+**3.Trimming Whitespace:**   
+- Use the TRIM function to remove leading, trailing, and excess spaces from text entries.
+  
+**4.Standardizing Text Case:**   
+- Apply the UPPER, LOWER, or PROPER functions to standardize the case of text entries.
+  
+**5.Converting Data Types:**     
+- Convert data types (e.g., text to numbers) as needed to ensure compatibility with analysis tools and functions.   
+
+
+
+
+
+
+
+
+
